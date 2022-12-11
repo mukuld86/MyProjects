@@ -1,5 +1,5 @@
 import random
-score=0
+score = 0
 while True:
     num=random.randint(1,6)
     guess=int(input("Guess the roll,0 to quit game"))
